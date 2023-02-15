@@ -19,6 +19,8 @@
 
 # Photogrametry with CCTag - *A computer with NVidia GPU with CUDA cores is necessary to run this part*
 
+*Detailed documentation at https://github.com/alicevision/meshroom/wiki/CCTAG-scaling*
+
 *1* - Download and Print the "CCTag Guide 100mm A4 sheet complete.pdf" file in a A4 sheet. Make sure the printer scale is corret by cheking the 10cm bar;
 
 *2* - Place the object in the middle os the Printed Sheet;

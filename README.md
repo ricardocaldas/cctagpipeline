@@ -19,7 +19,6 @@
 
 # Photogrametry with CCTag - *A computer with NVidia GPU with CUDA cores is necessary to run this part*
 
-*Detailed documentation at https://github.com/alicevision/meshroom/wiki/CCTAG-scaling*
 
 *1* - Download and Print the "CCTag Guide 100mm A4 sheet complete.pdf" file in a A4 sheet. Make sure the printer scale is corret by cheking the 10cm bar;
 
@@ -34,3 +33,5 @@
 *6* - Import the Pictures and "Start" the pipeline and wait;
 
 *7* - STL model can be found in "Output Folder", described in Atttributes panel of the "Convert Mesh" node (the last one of the pipeline).
+
+*Detailed documentation at https://github.com/alicevision/meshroom/wiki/CCTAG-scaling*

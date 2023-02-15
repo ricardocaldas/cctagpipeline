@@ -27,6 +27,8 @@
 
 4 - Open the "Pre_defined_cctag.mg" in Meshroom (https://alicevision.org/#meshroom);
 
+5 - Sava the project in a folder with simple name (Example: C:/project/). Special caracters in folder path will crash the Alicevision Meshroom.
+
 5 - Import the Pictures and "Start" the pipeline and wait;
 
 6 - STL model can be found in "Output Folder", described in Atttributes panel of the "Convert Mesh" node (the last one of the pipeline).

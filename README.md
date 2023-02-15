@@ -17,7 +17,7 @@
 
 7 - Files can be found at "Output Folder", described in Attributes panel
 
-**Steps
+**Photogrametry with CCTag**
 
 1 - Print the "CCTag Guide 100mm A4 sheet complete.pdf" file in a A4 sheet. Make sure the printer scale is corret by cheking the 10cm bar.
 

@@ -1,8 +1,11 @@
-## cctagpipeline
-A Photogrametry pipeline of Alicevision Meshroom with CCTAG scaling feature
+# cctagpipeline
+*A Photogrametry pipeline of Alicevision Meshroom with CCTAG scaling feature
 
+**KeyfremeSelection**
+*How to extract the frames from video to obtain Image Files*
+1 - Open Alicevision Meshroon, Drag and drop the desired movie
 
-Steps
+**Steps
 
 1 - Print the "CCTag Guide 100mm A4 sheet complete.pdf" file in a A4 sheet. Make sure the printer scale is corret by cheking the 10cm bar.
 

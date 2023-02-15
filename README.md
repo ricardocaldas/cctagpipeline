@@ -27,7 +27,7 @@
 
 *4* - Open the "Pre_defined_cctag.mg" in Meshroom (https://alicevision.org/#meshroom);
 
-*5* - Sava the project in a folder with simple name (Example: C:/project/). Special caracters in folder path will crash the Alicevision Meshroom.
+*5* - Save the project in a folder with simple name (Example: C:/project/). Special caracters in folder path will crash the Alicevision Meshroom.
 
 *6* - Import the Pictures and "Start" the pipeline and wait;
 

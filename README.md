@@ -15,7 +15,7 @@
 
 *6* - The extraction will start;
 
-*7* - Images can be found at "Output Folder", described in Attributes panel.
+*7* - Images can be found at "Output Folder", described in Attributes panel of "KeyframeSelection" node.
 
 # Photogrametry with CCTag - *A computer with NVidia GPU with CUDA cores is necessary to run this part*
 

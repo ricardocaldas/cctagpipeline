@@ -1,7 +1,7 @@
 # cctagpipeline
 *A Photogrametry pipeline of Alicevision Meshroom with CCTAG scaling feature*
 
-#**KeyfremeSelection**# - *How to extract the frames from video to obtain Image Files*
+# KeyfremeSelection# - *How to extract the frames from video to obtain Image Files*
 
 1 - Open Alicevision Meshroon, Drag and drop the desired video file;
 
